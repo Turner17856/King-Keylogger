@@ -1,0 +1,3 @@
+Before the script is written, use pip install pynput in your powershell for use of module
+After you add your imports, if you want you cant add your own ascii image or text.
+once the script is saved as a python file,  you can run python (your script) to make sure it's working and it shows up in the file you chose
